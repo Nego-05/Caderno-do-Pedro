@@ -1,3 +1,1 @@
-print("Olá Mundo")
-if(True)
-    print("")
+print("Isso é uma mensagem python")
